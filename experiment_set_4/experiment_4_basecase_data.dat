@@ -1,0 +1,1 @@
+basecase,198,4,"{non_drone, drone}",1.0,6.0,1.7,0.8,1.0,87.5,11.8,10.2,"[2, 1, 1, 1]",92,1,1,fixed_wing_fuel_based,75,900,5,"{1, 2}",0,0.9,BaseCase,administrative_regions,Poisson,exponential,deterministic,full_capacity,not_applicable,not_applicable,not_applicable,not_applicable,"[6.5, 2.8, 3.9, 3.9]","[0.2, 0.5, 0.3, 0.3]",0.005
